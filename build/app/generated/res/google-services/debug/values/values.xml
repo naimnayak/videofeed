@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">383004763737</string>
+    <string name="google_api_key" translatable="false">AIzaSyAnpedOiXlRu21_U7xt744thV2tIdV_HkY</string>
+    <string name="google_app_id" translatable="false">1:383004763737:android:5ab6f97d9cdca342afb348</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAnpedOiXlRu21_U7xt744thV2tIdV_HkY</string>
+    <string name="google_storage_bucket" translatable="false">videoapp-d968d.appspot.com</string>
+    <string name="project_id" translatable="false">videoapp-d968d</string>
+</resources>
